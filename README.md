@@ -1,2 +1,0 @@
-# SImpleFormRedux
-Created with CodeSandbox
